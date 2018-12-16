@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+    <book id="1">
+        <name>计算机科学与技术</name>
+        <author>张三</author>
+        <year>2014</year>
+        <price>89</price>
+    </book>
+    <book id="2">
+        <name>java从入门到精通</name>
+        <year>2014</year>
+        <price>77</price>
+        <language>English</language>
+    </book>   
+    <book id="3">
+        <name>spring从入门到精通</name>
+        <year>2014</year>
+        <price>63</price>
+    </book>    
+</bookstore>

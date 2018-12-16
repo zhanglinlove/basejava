@@ -1,0 +1,4 @@
+1、使用wait/notify实现线程间通信
+2、生产者/消费者模式
+3、方法join的使用
+4、threadLocal类的使用

@@ -1,0 +1,5 @@
+1、synchronized对象监视器为object
+2、synchronized对象监视器为Class
+3、非线程安全
+4、volatile的作用
+5、volatile和synchronized的区别
